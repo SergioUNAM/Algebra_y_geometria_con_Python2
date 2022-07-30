@@ -1,3 +1,6 @@
+"""Script que lee una matriz directamente de la consola de Python"""
+"""Script that reads an array directly from Python console"""
+
 def read_matrix_from_console():
     n = int(input("Number of rows: "))  # Number of rows
     m = int(input("Number of columns: "))  # Number of columns
