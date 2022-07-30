@@ -1,4 +1,4 @@
-"""The following functions presented perform standard operations on matrices: addition, multiplication by a number and transposition."""
+"""The following functions presented perform standard operations on matrices: addition, multiplication by a number and transposition. """
 
 """Las siguientes funciones presentadas realizan operaciones estándares con matrices: suma, multiplicación por un escalar y transposición"""
 
