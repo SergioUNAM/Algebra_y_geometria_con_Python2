@@ -37,7 +37,6 @@ def matrix_substract(A, B):
 
 def run():
     pass
-    pass
 
 
 if __name__ == "__main__":
